@@ -18,7 +18,7 @@ OS = "windows" #Choose your OS: windows, linux or macos.
 
 # TODO: Please, fill the required variable
 COUNT = 5 #[OPTIONAL] Specify the number of IPs to generate.
-COUNTRY = "INSERT_HERE_COUNTRY" #[REQUIRED] Specify the country code. Use ISO 3166-1 alpha-2 country codes. Send "any" to genereate a random proxy.
+COUNTRY = "INSERT_HERE_THE_COUNTRY" #[REQUIRED] Specify the country code. Use ISO 3166-1 alpha-2 country codes. Send "any" to genereate a random proxy.
 REGION = "" #[OPTIONAL] Specify the region or leave as empty string. Use snake_case for specifying the region. Example: "some_region"
 CITY = "" #[OPTIONAL] Specify the city or leave as empty string. Use snake_case for specifying the city.
 
