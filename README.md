@@ -16,7 +16,7 @@ This Python script automates the process of generating, validating, and managing
 
 ## Requirements
 - Python 3.11 or later
-- Required libraries: `hashlib`, `os`, `requests`, `datetime`
+- Required libraries: `hashlib`, `os`, `requests`, `datetime`. `requests` is the only library needed to download and install.
 - Access to the Multilogin API
 
 ---
